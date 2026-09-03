@@ -77,4 +77,3 @@ The project is deployed using **Render** and is available publicly through the l
 **Twin Das**
 
 Built with React, TypeScript and modern web technologies.
-
