@@ -1,0 +1,6 @@
+{
+  "name": "E-Commerce Sales Analytics Dashboard",
+  "description": "A premium, executive-grade E-Commerce Sales Analytics Dashboard with interactive KPIs, revenue trends, product and regional breakdowns, global filters, and order management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
